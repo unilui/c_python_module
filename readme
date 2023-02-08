@@ -1,1 +1,2 @@
 run: python setup.py install
+Python version: 3.10
